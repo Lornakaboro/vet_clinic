@@ -135,8 +135,6 @@ Example commands:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] Search and update animals table
 - [ ] Retrieve data from multiple tables
 - [ ] Add "join table" for visits
