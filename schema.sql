@@ -11,3 +11,11 @@ CREATE TABLE animals (
 
 ALTER TABLE animals 
 ADD species VARCHAR(255);
+
+/* Create vets table */
+CREATE TABLE vets (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR,
+  age INTEGER,
+  date_of_graduation DATE
+);
